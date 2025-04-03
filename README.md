@@ -7,7 +7,7 @@ Hi, welcome to my game source for A Shell to Call Home for the course CMST 2100:
 
 If you would like to see the art references, click this link: [Art References](ART_REFERENCES.md)
 
-If you would like to see the art included in the game, click this link: [Art](Art_Files.md)
+If you would like to see the art included in the game, click this link: [Art](ART_Files.md)
 
 If you would like to see the audio references, click this link: [Audio]
 
