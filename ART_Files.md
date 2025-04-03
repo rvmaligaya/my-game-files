@@ -1,3 +1,8 @@
+---
+layout: default
+title: "My Page Title"
+---
+
 ## Art Used in-Game
 ### Title-Screen
 ![Title](https://www.dropbox.com/scl/fi/c83o58f5115rj3mlez4i8/Title-screen.jpg?rlkey=ggf2ayd7ma1j9ro75c2uns1j0&st=67prrcq9&raw=1)
