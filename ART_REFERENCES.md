@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Image References"
+---
+
 ## Image References
 Image 1: Title Screen
 ![Cockleshell on the beach, Vietnam - stock photo](https://c02.purpledshub.com/uploads/sites/62/2022/07/GettyImages-94781378-0d2ac4d.jpg?w=910&webp=1)
