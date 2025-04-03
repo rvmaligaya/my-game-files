@@ -9,7 +9,7 @@ If you would like to see the art references, click this link: [Art References](A
 
 If you would like to see the art included in the game, click this link: [Art](ART_Files.md)
 
-If you would like to see the audio references, click this link: [Audio]
+If you would like to see the audio references, click this link: [Audio](Audio_Files)
 
 I hope you enjoyed the game! Thank you for playing!
 
