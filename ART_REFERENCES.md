@@ -40,3 +40,10 @@ Image 6: Shoreline Background
 *Description:* Sunset over the rocky shore of the Gulf of Mexico at Caspersen Beach in Venice Florida
 
 *Source:* [Adobe Stock](https://stock.adobe.com/images/sunset-over-the-rocky-shore-of-the-gulf-of-mexico-at-caspersen-beach-in-venice-florida/338062550?prev_url=detail)
+
+Image 7: Sea Snail
+![Sea snail](https://www.worldatlas.com/r/w768/upload/37/a4/49/shutterstock-90503221.jpg)
+
+*Description:* True Tulip Snail (Fasciolaria tulipa) crawling along a sandy ocean bottom in Cozumel.
+
+*Source:* [World Atlas](https://www.worldatlas.com/animals/sea-snail.html)
